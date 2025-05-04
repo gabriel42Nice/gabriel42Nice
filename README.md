@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Salut 👋, moi c'est Gabriel</h1>
+<h3 align="center">Étudiant à l'école 42 - Campus Nice</h3>
 
-<!--
-**gabriel42Nice/gabriel42Nice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gabriel42Nice&label=Profile%20views&color=0e75b6&style=flat" alt="Gabriel42Nice" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑‍💻 **À propos de moi :**
+
+- 🎓 Étudiant passionné à l’[école 42](https://42.fr) - Campus Nice  
+- 🚀 Je développe mes compétences en C, shell scripting, algorithmie et bien plus encore  
+- 💡 Je m'intéresse à la cybersécurité, à l’open-source et aux projets collaboratifs  
+- 📚 Toujours curieux d’apprendre de nouvelles choses  
+
+---
+
+🛠️ **Langages et outils :**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/>
+</p>
+
+---
+
+📊 **Statistiques GitHub :**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel42Nice&show_icons=true&theme=tokyonight" alt="stats GitHub" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel42Nice&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+🔗 **Liens utiles :**
+
+mon profil 42: https://profile.intra.42.fr/
+
+---
+
+🎯 **Objectif actuel :**  
+Développer des projets solides en C et contribuer à des projets open-source intéressants.
+
