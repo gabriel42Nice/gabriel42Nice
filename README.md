@@ -9,7 +9,7 @@
 
 🧑‍💻 **À propos de moi :**
 
-- 🎓 Étudiant passionné à l’[école 42](https://42.fr) - Campus Nice  
+- 🎓 Étudiant passionné à l’[école 42](https://42.fr)
 - 🚀 Je développe mes compétences en C, shell scripting, algorithmie et bien plus encore  
 - 💡 Je m'intéresse à la cybersécurité, à l’open-source et aux projets collaboratifs  
 - 📚 Toujours curieux d’apprendre de nouvelles choses  
