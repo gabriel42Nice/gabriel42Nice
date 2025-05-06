@@ -42,7 +42,7 @@
 
 🔗 **Liens utiles :**
 
-/* mon profil 42: https://profile.intra.42.fr/ */
+ mon profil 42: https://profile-v3.intra.42.fr/users/gchinaul
 
 ---
 
