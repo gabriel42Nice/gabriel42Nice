@@ -47,5 +47,5 @@
 ---
 
 🎯 **Objectif actuel :**  
-Développer des projets solides en C et contribuer à des projets open-source intéressants.
+Développer des projets solides en C/C++ et contribuer à des projets open-source intéressants.
 
