@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, moi c'est Gabriel</h1>
+<h1 align="center">Salut 👋 </h1>
 <h3 align="center">Étudiant à l'école 42 - Campus Nice</h3>
 
 <p align="center">
