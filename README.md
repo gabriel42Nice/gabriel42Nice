@@ -36,7 +36,7 @@
 > Un shell Unix bash codé en C.
 > **Objectif** : gérer les pipes, redirections, parsing, environnement, signaux, et plus encore.
 
-🔗 [Lien vers le repo Minishell](#)
+🔗 [https://github.com/gabriel42Nice/Minishell](#)
 
 ---
 
