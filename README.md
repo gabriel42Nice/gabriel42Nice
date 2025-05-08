@@ -36,7 +36,7 @@
 > Un shell en C codé from scratch pour comprendre les bases d’un interpréteur de commandes.  
 > **Objectif** : gérer les pipes, redirections, parsing, environnement, signaux, et plus encore.
 
-🔗 [Lien vers le repo Minishell](#) *(à ajouter si disponible)*
+🔗 [Lien vers le repo Minishell](#)
 
 ---
 
