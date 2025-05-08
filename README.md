@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Minishell Logo" width="80" height="80"/>
 </p>
 
-> Un shell en C codé from scratch pour comprendre les bases d’un interpréteur de commandes.  
+> Un shell Unix bash codé en C.
 > **Objectif** : gérer les pipes, redirections, parsing, environnement, signaux, et plus encore.
 
 🔗 [Lien vers le repo Minishell](#)
